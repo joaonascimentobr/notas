@@ -1,0 +1,17 @@
+﻿[
+  {
+    "texto": "Comprar cafe e pao",
+    "cor": "#FFF59D",
+    "tamanho": 120
+  },
+  {
+    "texto": "Estudar Flutter 1h hoje",
+    "cor": "#B3E5FC",
+    "tamanho": 140
+  },
+  {
+    "texto": "Revisar tarefas da semana",
+    "cor": "#C8E6C9",
+    "tamanho": 130
+  }
+]
