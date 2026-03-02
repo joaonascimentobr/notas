@@ -1,0 +1,7 @@
+﻿{
+  "dart.flutterHotReloadOnSave": "all",
+  "dart.flutterRunAdditionalArgs": [
+    "-d",
+    "chrome"
+  ]
+}
